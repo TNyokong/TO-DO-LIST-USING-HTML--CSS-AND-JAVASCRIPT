@@ -24,14 +24,6 @@ A simple and responsive To-Do List application built using HTML, CSS, and JavaSc
 
 ---
 
-## 🖼 Demo
-
-<img src="demo.gif" alt="To-Do List Demo" width="600"/>
-
-*(You can add a real screenshot or screen recording here)*
-
----
-
 ## 📂 Project Structure
 
 ```bash
